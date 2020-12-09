@@ -13,7 +13,7 @@
 
 ```groovy
 	dependencies {
-	        implementation 'com.github.mahaiyun18:dimens:Tag'
+	        implementation 'com.github.Maheaven:dimens:Tag'
 	}
 ```
 
